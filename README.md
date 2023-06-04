@@ -1,6 +1,14 @@
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-# FUI Editor - Flipper Zero user interface editor
+# FUI Editor - Flipper Zero user interface editor (check description below)
+
+***
+
+## ___This project is deprecated. Please follow the new, better and improved:___
+
+# *[Lopaka - Embedded graphics builder for U8g2 and Flipper Zero](https://github.com/sbrin/lopaka)*
+
+***
 
 The GUI editor/generator for [Flipper Zero](https://flipperzero.one/).
 
